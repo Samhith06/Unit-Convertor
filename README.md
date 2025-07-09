@@ -52,7 +52,7 @@ cd unit-converter
 
 ## Screenshots
 
-![alt text](./img/image.png)
+![App Screenshot](image.png)
 
 ## Contributing
 
